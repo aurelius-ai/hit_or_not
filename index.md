@@ -4,5 +4,5 @@ I have trained over a hundred effective models for machine learning classifiers 
 
 ### Popularity is consistently predicted with 70-80% accuracy.  
 
-What the training on youtube: https://www.youtube.com/watch?v=_u4-hA1SWnY&feature=youtu.be
+Whatch the models in training on youtube: https://www.youtube.com/watch?v=_u4-hA1SWnY&feature=youtu.be
 
